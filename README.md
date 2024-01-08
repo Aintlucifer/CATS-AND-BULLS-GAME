@@ -8,7 +8,7 @@ HOW TO PLAY?</br>
 #USER makes an initial guess at the secret code.</br>
 #GAME provides feedback using the terms "Cows" and "Bulls" based on the guess.</br>
 
-</br>FEEDBACK DEFINATIONS:</br>
+FEEDBACK DEFINATIONS:</br>
 #A "Cow" represents a correct digit in the wrong position.</br>
 #A "Bull" represents a correct digit in the correct position.</br>
 
